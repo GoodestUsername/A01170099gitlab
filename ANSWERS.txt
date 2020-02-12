@@ -1,0 +1,6 @@
+cd Documents/BCIT/labs/1800/lab03/MovieStarter
+git init
+git add .
+git commit -m "First Commit"
+git remote add origin https://github.com/GoodestUsername/A01170099gitlab.git
+git push -u origin master
