@@ -25,7 +25,7 @@ function addMovie() {
     // Step 4: Insert text into li
     // <li>Harry Potter </li>
     li.appendChild(textToInsert);
-
+    // some comment
     // Step 5: Insert the <li>Harry Potter</li> INTO the <ul>
     myMovieList.appendChild(li);
 }
